@@ -1,0 +1,13 @@
+doskey/history
+notepad Aaaaaa.txt
+copy con Bbbbbb.txt
+A
+Abbsbsbbsbs
+ghagsgsgfs
+ahjsghsgs
+ayhsgs
+sggdgdgdgd
+→
+sort Bbbbbb.txt/output Aaaaaa.txt
+sort Bbbbbb.txt/output Abdu.txt
+doskey /history
